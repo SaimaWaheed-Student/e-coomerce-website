@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: black;
+}
+
+.home-section{
+  margin-bottom: 40px;
+}
+.about-section{
+  margin-top: 40px;
+}
+
+.gallery-section{
+  margin-top: 60px;
+  
+}
+.about-section{
+  background-color: aqua;
+  padding: 2rem;
+  text-align: center;
+}
