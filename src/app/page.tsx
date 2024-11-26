@@ -24,7 +24,7 @@ const Home = () => {
       <Gallery />
       <Contact />
       <Footer />
-    </div>npm run dev
+    </div>
 
   );
 };
